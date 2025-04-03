@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi there! I'm Dipesh Upadhyay
+
+
+🚀 Software Developer | MERN Stack | TypeScript | SQL | Firebase
+
 
 <!--
 **DipeshUpadhyay23/DipeshUpadhyay23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
