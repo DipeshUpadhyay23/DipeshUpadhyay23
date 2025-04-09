@@ -48,6 +48,7 @@ A real-time chat application built with React, TypeScript, and Firebase. Feature
 Full-stack application with user login, car CRUD operations, image upload, and search/filter features.
 
 📫 Let's Connect!
+
 LinkedIn: www.linkedin.com/in/dipesh-upadhyay-460479214
 
 GitHub: https://github.com/DipeshUpadhyay23
