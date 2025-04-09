@@ -1,11 +1,11 @@
-##👨‍💻 Dipesh Upadhyay – Software Development Engineer
+## 👨‍💻 Dipesh Upadhyay – Software Development Engineer
 
-#🚀 Software Developer | MERN Stack | TypeScript | SQL | Firebase
+# 🚀 Software Developer | MERN Stack | TypeScript | SQL | Firebase
 
 Hi! I'm Dipesh Upadhyay, a final-year B.Tech IT student and aspiring Software Development Engineer with hands-on experience in building full-stack web applications. I enjoy solving real-world problems through clean code, scalable architecture, and user-centric solutions. Currently working as an SDE Intern at BossCoder Academy, I specialize in the MERN stack, TypeScript, Firebase, and system design.
 
 
-#⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 Languages: JavaScript, TypeScript, C++, SQL
 
@@ -17,7 +17,7 @@ Tools: Git, Vite, Postman, VS Code
 
 Other Skills: REST APIs, JWT Auth, OTP Systems, Firebase Auth, MVC Architecture
 
-#📚 Core CS Knowledge
+# 📚 Core CS Knowledge
 
 Object-Oriented Programming (OOPs)
 
@@ -27,7 +27,7 @@ Database Management Systems (DBMS)
 
 Data Structures and Algorithms (DSA)
 
-#📈 Currently Focusing On
+# 📈 Currently Focusing On
 
 Writing scalable, clean backend architecture
 
@@ -35,7 +35,7 @@ Building secure and optimized full-stack applications
 
 Enhancing problem-solving and DSA skills
 
-#🚀 Key Projects
+# 🚀 Key Projects
 
 🔐 Banking Security System
 A layered security system with OTP, JWT tokens, password hashing, and account lockout mechanisms.
@@ -52,7 +52,7 @@ A real-time chat application built with React, TypeScript, and Firebase. Feature
 🚘 Car Management System
 Full-stack application with user login, car CRUD operations, image upload, and search/filter features.
 
-#📫 Let's Connect!
+# 📫 Let's Connect!
 
 LinkedIn: www.linkedin.com/in/dipesh-upadhyay-460479214
 
