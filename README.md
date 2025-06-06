@@ -2,7 +2,7 @@
 
 # 🚀 Software Developer | MERN Stack | TypeScript | SQL | Firebase
 
-Hi! I'm Dipesh Upadhyay, a final-year B.Tech IT student and aspiring Software Development Engineer with hands-on experience in building full-stack web applications. I enjoy solving real-world problems through clean code, scalable architecture, and user-centric solutions. Currently working as an SDE Intern at BossCoder Academy, I specialize in the MERN stack, TypeScript, Firebase, and system design.
+Hi! I'm Dipesh Upadhyay, a B.Tech IT graduate and aspiring Software Development Engineer with hands-on experience in building full-stack web applications. I enjoy solving real-world problems through clean code, scalable architecture, and user-centric solutions. Currently working as an SDE Intern at BossCoder Academy, I specialize in the MERN stack, TypeScript, Firebase, and system design.
 
 
 # ⚙️ Tech Stack
